@@ -1,5 +1,5 @@
 
-#### Objetivo:
+#### Objetivo :
 Desarrollar un programa en JavaScript donde dos jugadores intentan adivinar un número aleatorio entre 1 y 100. El jugador que adivina el número exacto gana, y si nadie lo acierta, gana el jugador que se acerque más al número.
 
 ### Instrucciones
